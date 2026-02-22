@@ -1,5 +1,5 @@
 # 💫 About Me:
-im currebtly learning full stack devlopment<br>
+I am good at Problem Solving !!!<br>
 
 
 # 💻 Tech Stack:
